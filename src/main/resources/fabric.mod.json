@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "dimension_confusion",
+  "version": "${version}",
+
+  "name": "Dimension Confusion",
+  "description": "",
+  "authors": [
+    "Odd_Commander"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.outlook.oddcommander.dic.DimensionConfusionCore"
+    ],
+    "client": [
+      "com.outlook.oddcommander.dic.client.DicClientCore"
+    ]
+  },
+  "mixins": [
+    "dic.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.x",
+    "java": ">=8"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

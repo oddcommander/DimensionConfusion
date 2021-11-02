@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "piglin",
+    "zombified_piglin",
+    "piglin_brute",
+    "ghast",
+    "blaze",
+    "wither_skeleton",
+    "magma_cube",
+    "hoglin",
+    "zoglin",
+    "dic:nether_silverfish",
+    "strider"
+  ]
+}

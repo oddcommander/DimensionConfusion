@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "zombie",
+    "zombie_villager",
+    "skeleton",
+    "husk",
+    "stray",
+    "drowned",
+    "witch",
+    "slime",
+    "spider",
+    "cave_spider",
+    "silverfish",
+    "phantom",
+    "creeper",
+    "pillager",
+    "evoker",
+    "guardian",
+    "elder_guardian",
+    "vex",
+    "ravager",
+    "illusioner",
+    "giant",
+    "vindicator"
+  ]
+}

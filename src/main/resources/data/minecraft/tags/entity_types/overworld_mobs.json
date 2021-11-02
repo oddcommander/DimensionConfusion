@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:overworld_monsters",
+    "#minecraft:overworld_animals"
+  ]
+}
